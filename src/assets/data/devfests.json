@@ -1,5 +1,24 @@
 [
     {
+        "City":"Bangalore",
+        "CommunityName":"GDG Bangalore",
+        "DevFestName":"DevFest Bangalore",
+        "Days":"2",
+        "StartingDate":"2022-09-17",
+        "EndingDate":"2022-09-18",
+        "Venue":"The Lalit Ashok",
+        "Description":"We are excited to host Devfest 2022 on September 17th and 18th at Hotel Lalit Ashok. This event is free of cost invite-only, so a confirmation email is mandatory to attend the event.",
+        "EventLink":"https://gdg.community.dev/events/details/google-gdg-bangalore-presents-devfest-bangalore-2022/",
+        "CommunityPage":"https://gdg.community.dev/gdg-bangalore/",
+        "Visible":"true",
+        "State":"Karnataka",
+        "CFP":{
+            "Status":"0",
+            "Link":"",
+            "LastDate":""
+        }
+    },
+    {
         "City":"Jalandhar",
         "CommunityName":"GDG Jalandhar",
         "DevFestName":"DevFest Jalandhar",
